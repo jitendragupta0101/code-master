@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20.39" height="27.462" viewBox="0 0 20.39 27.462">
+  <g id="Group_2652" data-name="Group 2652" transform="translate(-9803.533 18827.936)">
+    <g id="Icon-custom-report" transform="translate(9804.283 -18827.186)">
+      <line id="Line_172" data-name="Line 172" x2="8.919" transform="translate(4.075 4.462)" fill="none" stroke="#fff" stroke-linecap="square" stroke-linejoin="round" stroke-width="1.5"/>
+      <line id="Line_173" data-name="Line 173" x2="1.851" transform="translate(4.364 12.728)" fill="none" stroke="#fff" stroke-linecap="square" stroke-linejoin="round" stroke-width="1.5"/>
+      <line id="Line_174" data-name="Line 174" x2="8.919" transform="translate(4.075 8.859)" fill="none" stroke="#fff" stroke-linecap="square" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Path_659" data-name="Path 659" d="M504.095,323.772h-2.627a2.938,2.938,0,0,1-2.969-2.907V303.907A2.938,2.938,0,0,1,501.467,301h11.508a2.939,2.939,0,0,1,2.97,2.907v10.9" transform="translate(-498.498 -301)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <g id="Group_2115" data-name="Group 2115" transform="translate(8.717 15.788)">
+        <circle id="Ellipse_63" data-name="Ellipse 63" cx="5.087" cy="5.087" r="5.087" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      </g>
+    </g>
+    <g id="Group_2651" data-name="Group 2651" transform="translate(9815.5 -18808.373)">
+      <line id="Line_198" data-name="Line 198" x1="2.449" y1="2.449" transform="matrix(0.719, -0.695, 0.695, 0.719, 1.731, 3.701)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <line id="Line_199" data-name="Line 199" x1="2.449" y1="2.449" transform="matrix(0.695, 0.719, -0.719, 0.695, 1.762, 0)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>
